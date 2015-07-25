@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Little Spaceships</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="loading">Cargando…</string>
+    <string name="controls">Controles</string>
+    <string name="set_controls">Cambiar controles</string>
+    <string name="select_fire_mode">Selecciona el modo de fuego:\n\n
+                                        * Normal: Pulsa y mantén.\n
+                                        * Complicado: Doble toque, dos dedos.\n\n
+                                    Si eres habilidoso, el modo complicado puede dar mejores
+                                    resultados en los momentos más difíciles del juego.\n\n
+                                    Si más tarde prefieres otro no te preocupes, podrás cambiarlo
+                                    al final de cada partida.
+                                    </string>
+    <string name="easy">Normal</string>
+    <string name="hard">Complicado</string>
+    <string name="points">puntos</string>
+    <string name="rank_sss">[SSS] Illuminati confirmed</string>
+    <string name="rank_ss">[SS] Chuck Norris</string>
+    <string name="rank_s">[S] El amo</string>
+    <string name="rank_a">[A] Bastante PRO</string>
+    <string name="rank_b">[B] No está mal</string>
+    <string name="rank_c">[C] Padawan</string>
+    <string name="rank_d">[D] Abuelita</string>
+    <string name="rank">Rango</string>
+    <string name="your_score">Tu puntuación</string>
+    <string name="normal_mode">Modo Normal</string>
+    <string name="kamikaze_mode">Modo Kamikaze</string>
+    <string name="this_is_kamikaze">¡Es el modo Kamikaze!</string>
+</resources>

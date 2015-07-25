@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#ff232323">
+
+    <view
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.desko27.littlespaceships.Room"
+        android:id="@+id/room"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/loading"
+        android:id="@+id/loading"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="#ffffffff" />
+</RelativeLayout>
